@@ -34,4 +34,4 @@ Beepo is made using a few libaries but is mainly based on **node.js** using **di
 Unfortunatly no, **Beepo** although being public for you to add to your server, cannot be downloaded and run individually. however if you have any good feature suggestions DM **Beepo** and open a ticket, it may take me a while to get through tickets since I alone develop this bot.
 
 ### Who made Beepo?
-Me (Bxnie), i am the soul developer and maintainer for Beepo, for now. However as the bot grows this may change
+Me (Bxnie), i am the sole developer and maintainer for Beepo, for now. However as the bot grows this may change
